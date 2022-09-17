@@ -3,5 +3,5 @@
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597682907609},"valid":true,"tokenId":"f9g1wnbtvcu","_id":"6mrGxgbBTzKs5RQI"}
 {"accessRights":[1,2,3],"expirationTime":{"$$date":1663416607486},"tokenId":"someTokenIdgtf2d7","userName":"someUserName","valid":true,"_id":"C3ASTFwM9bC4He3D"}
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597074714001},"valid":true,"tokenId":"oi3ob6s5hvg","_id":"wuQJTkvrbPqohg0M"}
-{"accessRights":[1,2,3],"expirationTime":{"$$date":1663416783219},"tokenId":"someTokenIdlqkxc","userName":"someUserName","valid":true,"_id":"AgvmEPNGCy9tWwqX"}
-{"$$deleted":true,"_id":"AgvmEPNGCy9tWwqX"}
+{"accessRights":[1,2,3],"expirationTime":{"$$date":1663417227746},"tokenId":"someTokenId3kewja","userName":"someUserName","valid":true,"_id":"YCOdXmqzSOqMjY5d"}
+{"$$deleted":true,"_id":"YCOdXmqzSOqMjY5d"}
